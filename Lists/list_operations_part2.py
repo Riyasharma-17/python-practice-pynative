@@ -1,3 +1,10 @@
+# This file contains solutions for:
+# Q5: Create a copy of a list
+# Q6: Combine two lists
+# Q7: Remove empty strings from a list
+# Q8: Remove duplicates from a list
+# Q9: Remove all occurrences of a specific item from a list
+
 # Exercise 5: Create a copy of a list and modify the copy.
 
 original_list = [10, 20, 30]
